@@ -16,13 +16,13 @@
     "LANGUAGE": "en_US",
     "LOG_LEVEL": 1,
     "MODERATORS": [
-        "61564459952029"
+        "100065246477756"
     ],
     "ABSOLUTES": [
-        "61564459952029"
+        "100065246477756"
     ],
     "NAME": "yhannabot",
-    "PREFIX": "-",
+    "PREFIX": "+",
     "timezone": "Asia/Manila",
     "REFRESH": "43200000"
 }
